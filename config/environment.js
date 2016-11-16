@@ -16,7 +16,16 @@ module.exports = function(environment) {
     APP: {
       // Here you can pass flags/options to your application instance
       // when it is created
-    }
+    },
+    firebase: {
+      apiKey: "AIzaSyDMsUCCA4M01Mp552uEullo_43Ww2hu27w",
+      authDomain: "dobry-towar.firebaseapp.com",
+      databaseURL: "https://dobry-towar.firebaseio.com",
+      storageBucket: "dobry-towar.appspot.com",
+    },
+    torii: { sessionServiceName: 'session' },
+    baseUrl: '/',
+
   };
 
   if (environment === 'development') {

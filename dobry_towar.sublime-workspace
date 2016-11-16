@@ -1,0 +1,237 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"da",
+				"date"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/root1/ember/dobry_towar"
+	],
+	"file_history":
+	[
+		"/home/root1/ember/auth_4/demo/app/models/user.js",
+		"/home/root1/ember/natsu/app/templates/users/new.hbs",
+		"/home/root1/ember/natsu/app/templates/map.hbs",
+		"/home/root1/ember/natsu/app/models/user.js",
+		"/home/root1/ember/natsu/package.json",
+		"/home/root1/ember/natsu/bower.json",
+		"/home/root1/ember/natsu/server/index.js",
+		"/home/root1/ember/natsu/app/routes/users/new.js",
+		"/home/root1/ember/natsu/app/authenticators/oauth2.js",
+		"/home/root1/ember/natsu/app/components/login-form.js",
+		"/home/root1/ember/natsu/app/templates/components/login-form.hbs",
+		"/home/root1/ember/natsu/app/routes/login.js",
+		"/home/root1/ember/natsu/config/environment.js",
+		"/home/root1/ember/natsu/app/services/session.js",
+		"/home/root1/ember/natsu/app/controllers/login.js",
+		"/home/root1/ember/natsu/ember-cli-build.js",
+		"/home/root1/ember/super-rentals/tests/unit/utils/google-maps-test.js",
+		"/home/root1/ember/map_test_5/map_test_5/app/templates/application.hbs",
+		"/home/root1/ember/map_test_5/map_test_5/app/templates/map.hbs",
+		"/home/root1/ember/map_test_5/map_test_5/app/templates/components/google-map.hbs",
+		"/home/root1/ember/map_test_5/map_test_5/ember-cli-build.js",
+		"/home/root1/ember/map_test_5/map_test_5/app/index.html",
+		"/home/root1/ember/map_test_5/map_test_5/app/styles/app.css",
+		"/home/root1/ember/map_test_5/map_test_5/app/components/google-map.js",
+		"/home/root1/ember/map_test/app/styles/app.css",
+		"/home/root1/ember/map_test/app/templates/control-panel.hbs",
+		"/home/root1/ember/map_test/app/controllers/tasks.js",
+		"/home/root1/ember/map_test/app/controllers/tasks/edit.js",
+		"/home/root1/ember/map_test/app/routes/test.js",
+		"/home/root1/ember/map_test/app/models/map.js",
+		"/home/root1/ember/map_test/app/models/test.js",
+		"/home/root1/ember/map_test/app/index.html",
+		"/home/root1/ember/map_test/app/test.html",
+		"/home/root1/ember/map_test/app/templates/application.hbs",
+		"/home/root1/ember/map_test/app/templates/test.hbs",
+		"/home/root1/ember/map_test/app/controllers/test.js",
+		"/home/root1/ember/map_test/config/environment.js",
+		"/home/root1/ember/map_test/app/styles/control-panel.css",
+		"/home/root1/ember/map_test/app/styles/control-panel",
+		"/home/root1/ember/map_test/package.json",
+		"/home/root1/ember/map_test/ember-cli-build.js",
+		"/home/root1/ember/emtask/app/templates/application.hbs",
+		"/home/root1/ember/emtask/app/templates/tasks.hbs",
+		"/home/root1/ember/emtask/app/controllers/tasks.js",
+		"/home/root1/ember/emtask/app/controllers/tasks/delete.js",
+		"/home/root1/ember/emtask/app/controllers/tasks/edit.js",
+		"/home/root1/ember/emtask/app/helpers/format-date.js",
+		"/home/root1/ember/emtask/app/templates/tasks/edit.hbs",
+		"/home/root1/ember/emtask/app/templates/tasks/new.hbs",
+		"/home/root1/ember/emtask/app/router.js",
+		"/home/root1/ember/emtask/app/index.html",
+		"/home/root1/ember/emtask/config/environment.js",
+		"/home/root1/ember/emtask/app/routes/tasks.js",
+		"/home/root1/ember/emtask/app/models/task.js",
+		"/home/root1/ember/emtask/app/controllers/tasks/new.js",
+		"/home/root1/ember/emtask/app/controllers/tasks-new.js",
+		"/home/root1/ember/emtask/app/routes/.gitkeep",
+		"/home/root1/ember/emtask/ember-cli-build.js",
+		"/home/root1/ember/emtask/app/adapters/application.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"map-container",
+			"marker"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "dobry_towar.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 338.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
