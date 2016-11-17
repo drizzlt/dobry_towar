@@ -10,6 +10,7 @@ Router.map(function() {
   this.route('sign-up');
   this.route('sign-in');
   this.authenticatedRoute('welcome');
+  this.authenticatedRoute('calendar');
 });
 
 export default Router;
