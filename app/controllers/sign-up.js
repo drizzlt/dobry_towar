@@ -13,7 +13,8 @@ export default Ember.Controller.extend({
 					id: userResponse.uid,
 					email: userResponse.email
 				});
-				return user.save();
+				user.save();
+				controller.transitionToRoute('sign-in');
 			});
     	}
  	},
